@@ -5,13 +5,15 @@ body
     font-family:Arial;
     font-size:16px;
     margin:0;
-    padding:0
+    padding:0;
+    
 }
 
 
 #cabecera
-{
-    background:#33a;
+{   
+    
+    background:rgb(109, 137, 228);
     box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
     color:#fff;
     font-weight:700;
@@ -30,8 +32,10 @@ body
     padding:0;
     text-align:
     left;border:
-    1px solid #ddd;
-    margin:0 auto
+    2px solid #ddd;
+    margin:0 auto;
+    margin-top: 100px;
+    
 }
 #container h1
 {
