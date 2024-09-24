@@ -6,7 +6,7 @@ body
     font-size:16px;
     margin:0;
     padding:0;
-    background-color: black;
+    background-color: rgb(236, 230, 230);
     
 }
 
@@ -51,6 +51,6 @@ body
 }
 
 .ejemplo{
-    color: white;
+    color: rgb(17, 16, 16);
 }
 
